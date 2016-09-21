@@ -21,7 +21,6 @@ var TodoApp = React.createClass({
           id: 4,
           text: "Live freely"
         }
-
       ]
     }
   },
